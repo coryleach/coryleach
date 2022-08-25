@@ -1,7 +1,8 @@
 ### Hi there 👋
 **About Me**
-- 👨🏼‍💻 I'm Lead Developer at Pracy Studios
+- 👨🏼‍💻 I'm Lead Developer at [Pracy Studios](https://pracystudios.com)
 - 🎮 I've 10+ years of experience shipping games
+- 👾 I’m currently working on a game called [Nocturne](https://store.steampowered.com/app/883590/Nocturne_Prelude)
 - ❤️ I enjoy making Unity packages and sharing them with people like you. :)
 - 🌎 I'm originally from Minnesota 🇺🇸 but I like to move around a lot and could be anywhere.
 - 💬 Ask me about anything [here](https://github.com/coryleach/coryleach/issues)
