@@ -1,12 +1,16 @@
-### Hi there 👋
-**About Me**
+<h3>Hi There!👋</h3>
+<img src="https://raw.githubusercontent.com/coryleach/UnityPackages/master/Documentation/GameframeFace.gif" />
+<h3>About Me</h3>
+
 - 👨🏼‍💻 I'm Lead Developer at [Pracy Studios](https://pracystudios.com)
 - 🎮 I've 10+ years of experience shipping games
 - 👾 I’m currently working on a game called [Nocturne](https://store.steampowered.com/app/883590/Nocturne_Prelude)
 - ❤️ I enjoy making Unity packages and sharing them with people like you. :)
 - 🌎 I'm originally from Minnesota 🇺🇸 but I like to move around a lot and could be anywhere.
 - 💬 Ask me about anything [here](https://github.com/coryleach/coryleach/issues)
+
 <!--
+### Hi there 👋
 **coryleach/coryleach** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 Here are some ideas to get you started:
 
