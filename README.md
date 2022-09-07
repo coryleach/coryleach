@@ -1,5 +1,4 @@
 <h3>Hi There!👋</h3>
-<img src="https://raw.githubusercontent.com/coryleach/UnityPackages/master/Documentation/GameframeFace.gif" />
 <h3>About Me</h3>
 
 - 👨🏼‍💻 I'm Lead Developer at [Pracy Studios](https://pracystudios.com)
@@ -23,3 +22,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+### Support
+Follow me or give my projects a ⭐️ if it helped you!<br>
+Please consider supporting my work either by contributing to the Github projects (submitting bug reports or features and/or creating pull requests) or by buying me coffee using any of the links below. Every little bit helps!
+
+[![ko-fi](https://www.ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/coryleach)
