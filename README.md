@@ -1,7 +1,7 @@
 <h3>Hi There!👋</h3>
 <h3>About Me</h3>
 
-- 👨🏼‍💻 I'm Lead Developer at [Pracy Studios](https://pracystudios.com)
+- 👨🏼‍💻 I'm Lead Programmer at [Pracy Studios](https://pracystudios.com)
 - 🎮 I've 10+ years of experience shipping games
 - 👾 I’m currently working on a game called [Nocturne](https://store.steampowered.com/app/883590/Nocturne_Prelude)
 - ❤️ I enjoy making [Unity packages](https://github.com/stars/coryleach/lists/unity-packages) and sharing them with people like you. :)
